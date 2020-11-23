@@ -13,6 +13,7 @@
 
 [<img align="left" alt="Marvin_9k | Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />][reddit]
 [<img align="left" alt="Kolyan_2chevsky | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+[<img align="left" alt="Ramblin' Man | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 [<img align="left" alt="Gendalf Sery | Vk" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
 [<img align="left" alt="marvin_9000 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
@@ -46,6 +47,7 @@
 
 [reddit]: https://www.reddit.com/user/Marvin_9k
 [telegram]: https://t.me/Kolyan_2ch
+[discord]: https://discordapp.com/users/721271629493305344
 [vk]: https://vk.com/id206972305
 [instagram]: https://www.instagram.com/marvin_9000/
 [VScode]: https://code.visualstudio.com
