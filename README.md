@@ -5,15 +5,9 @@
 - 🥅 2020 Goals: Learn and earn
 - ⚡ Fun fact: I love to draw
 
-<br>
----
-
 ### Spotify Playing 🎧
 
 [![Spotify](https://novatorem-tau-eight.vercel.app/api/spotify)](https://open.spotify.com/user/1f2o81mlg1n4v1gj6wnzih0my)
-
-<br>
----
 
 ### Connect with me:
 
@@ -22,8 +16,6 @@
 [<img align="left" alt="Gendalf Sery | Vk" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
 [<img align="left" alt="marvin_9000 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br>
----
 <br>
 
 ### Languages and Tools:
@@ -67,4 +59,5 @@
 [Terminal]: #
 
 <br>
+
 ---
