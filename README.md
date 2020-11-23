@@ -24,9 +24,11 @@
 [<img align="left" alt="Sublime text 3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sublime-text/sublime-text.png" />][Subl]
 [<img align="left" alt="Doxygen" width="26px" src="https://avatars1.githubusercontent.com/u/1300762?s=400&v=4" />][Doxygen]
 [<img align="left" alt="Graphviz" width="26px" src="https://graphviz.org/Resources/app.png" />][Graphviz]
+[<img align="left" alt="Qt" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/qt/qt.png" />][Qt]
 [<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />][Cpp]
 [<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />][C]
 [<img align="left" alt="Nasm" width="26px" src="https://nasm.us/images/nasm.png" />][Nasm]
+<br>
 [<img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />][Firebase]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][Html]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][Css]
@@ -35,6 +37,7 @@
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][React]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][Git]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][GitHub]
+<br>
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][Terminal]
 
 [reddit]: https://www.reddit.com/user/Marvin_9k
@@ -45,6 +48,7 @@
 [Subl]: https://www.sublimetext.com/3
 [Doxygen]: https://www.doxygen.nl/index.html
 [Graphviz]: https://graphviz.org
+[Qt]: https://www.qt.io
 [Cpp]: https://isocpp.org
 [C]: https://www.iso.org/home.html
 [Nasm]: https://nasm.us/index.php
