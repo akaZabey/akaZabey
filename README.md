@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning everything 🤔
 - 👀 I'm looking for a freelance job
-- 🥅 2020 Goals: Learn and earn
+- 🥅 2021 Goals: Learn and earn
 - ⚡ Fun fact: I love to draw
 
 ### Spotify Playing 🎧
